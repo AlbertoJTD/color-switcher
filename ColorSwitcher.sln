@@ -7,7 +7,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColorSwitcher.Android", "Co
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColorSwitcher.iOS", "ColorSwitcher\ColorSwitcher.iOS\ColorSwitcher.iOS.csproj", "{D9AF3EA5-EFF6-4B5E-A359-5BF94C94EBA2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColorSwitcher", "ColorSwitcher\ColorSwitcher\ColorSwitcher.csproj", "{C5F85A90-5ADD-4DF2-B289-F43BD7D6CC5D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ColorSwitcher", "ColorSwitcher\ColorSwitcher\ColorSwitcher.csproj", "{C5F85A90-5ADD-4DF2-B289-F43BD7D6CC5D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{A17EC5CE-9351-4947-920F-56F2CE0C5FCA}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
